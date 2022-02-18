@@ -14,8 +14,12 @@ Software Engineer (2010 - Present)
 
 <center><img src="assets/img/QuiteComfort.jpeg"/></center>
 
-[View on Bose.com Sports Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/quietcomfort-earbuds.html#v=qc_earbuds_black)
+[View on Bose.com Sports Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/bose-sport-earbuds.html#v=sport_earbuds_triple_black)
 
 <center><img src="assets/img/SportsEarBuds.jpeg"/></center>
 
-
+### <details><summary>Generation 2 Earbuds</summary>
+<p>
+<center>![QuiteComfort EarBuds]("assets/img/QuiteComfort.jpeg") ![Sports EarBuds]("assets/img/SportsEarBuds.jpeg")</center>
+</p>
+</details>
