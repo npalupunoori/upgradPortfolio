@@ -14,7 +14,5 @@ Software Engineer (2010 - Present)
 
 [View on Bose.com Sports Earbuds](https://www.bose.com/en_us/products/headphones/earbuds/bose-sport-earbuds.html#v=sport_earbuds_triple_black)
 
-<center><img src="assets/img/QuiteComfort.jpeg"/></center> <center><img src="assets/img/SportsEarBuds.jpeg"/></center>
-
-<center>![QuiteComfort EarBuds]("assets/img/QuiteComfort.jpeg") ![Sports EarBuds]("assets/img/SportsEarBuds.jpeg")</center>
+<center><img src="assets/img/QuiteComfort.jpeg"/> <img src="assets/img/SportsEarBuds.jpeg"/></center>
 
